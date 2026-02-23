@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="btn_label_send">Send</string>
+    <string name="tf_hint_label">"Enter your message here..."</string>
+</resources>
