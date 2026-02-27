@@ -45,15 +45,11 @@ The project follows Clean Architecture with 3 layers:
 3. Sync Gradle
 4. Run on emulator or physical device (API 24+)
 
----
-
 ## 🧪 Running Tests
 
 To run unit tests:
 
 - Right click test package → Run Tests
-
----
 
 ## 📦 Key Features
 
@@ -64,14 +60,14 @@ To run unit tests:
 - Edge cases not handled
 - Testing coverage
 
----
-
 ## Future Improvements
 
 - TBD
 
----
-
 ## 👤 Author
 
 Bhagyashri Patil
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
