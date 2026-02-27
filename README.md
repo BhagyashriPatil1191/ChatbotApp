@@ -2,7 +2,8 @@
 
 A simple chat application built using Jetpack Compose, Clean Architecture,
 StateFlow, Coroutines, and MVVM.
-![App Screenshot](images/ChatApp.png)
+
+![App Screenshot](app/images/ChatApp.png)
 ---
 ## Project Structure
 
